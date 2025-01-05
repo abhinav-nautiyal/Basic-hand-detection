@@ -9,4 +9,4 @@ Clone the repository.
 2) Run the example script:
    python projectExample.py
 
-# This module can be easily integrated into gesture control or interactive applications.
+This module can be easily integrated into gesture control or interactive applications.
