@@ -9,4 +9,6 @@ Clone the repository.
 2) Run the example script:
    python projectExample.py
 
+# this is a error line
+
 This module can be easily integrated into gesture control or interactive applications.
