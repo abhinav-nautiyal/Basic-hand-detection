@@ -10,5 +10,7 @@ Clone the repository.
    python projectExample.py
 
 # this is a error line
+# this is a error line
+# this is a error line
 
 This module can be easily integrated into gesture control or interactive applications.
